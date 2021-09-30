@@ -1,4 +1,4 @@
-# HOLA, nice to meet you! 👋
+# HOLA! 👋
 
 ### Interested in solving real life problems and building cool stuff.
 
