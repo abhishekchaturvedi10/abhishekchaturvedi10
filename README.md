@@ -1,10 +1,6 @@
 # Hello, I'm Abhishek! 👋
 
-### Interested in solving real life problems and building cool stuff.
-
-### Exploring the fields of web development and app development.
-
-### Enhancing my skills in problem solving.
+### Interested in backend development and data science.
 
 ------------------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekchaturvedi10&show_icons=true&theme=radical)
