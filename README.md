@@ -1,6 +1,6 @@
 # Hello, I'm Abhishek! 👋
 
-### Interested in backend development and data science.
+### Interested in backend development, system design and cloud technologies.
 
 ------------------------------------------------------------------------------------------------------------------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekchaturvedi10&show_icons=true&theme=radical)
